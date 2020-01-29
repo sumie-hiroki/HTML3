@@ -157,3 +157,17 @@ ul.top_menu {
   display: block;
   clear: both;
 }
+
+#width480 {
+  width: 480px;
+}
+
+textarea {
+  resize: none;
+  width:480px;
+  height:80px;
+}
+
+.demo1:hover{
+    color: #FF00FF;
+}

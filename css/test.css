@@ -7,18 +7,28 @@
 }
 
 .company th{
-  width: 250px;
-  background-color: #B1B1B1;
-  color: #fff;
-  border-bottom: solid 1px #fff;
+  width: 150px;
+  background-color: #fff;
+  color: #000000;
 }
 
 .company td{
-  width: 400px;
+  width: 480px;
   padding-left: 1rem;
-  border: solid 1px #B1B1B1;
 }
 
-.company tr:last-child th {
-  border-color: #B1B1B1;
+/* .company th:last-of-type {
+  color: 008000;
 }
+#push {
+  color: 008000;
+  text-align: center
+} */
+
+/* input#submit_button {
+    padding: 15px 40px;
+    font-size: 1.2em;
+    background-color: #000;
+    color: #fff;
+    border-style: none;
+} */
